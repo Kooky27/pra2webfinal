@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "titulo": "Levy",
+    "alt": "Levy, personaje de la historia, pelo corto granate, facciones de niño y ojos marrones",
+    "srcimg": "https://images.pexels.com/photos/6045294/pexels-photo-6045294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "texto": "Futuro defensor de los débiles y atormentados por la maldad del mundo.",
+    "url": "/pra2webfinal/Levy"
+},
+{
+    "id": 2,
+    "titulo": "Gheek",
+    "alt": "Descripción de la imágen",
+    "srcimg": "https://images.unsplash.com/photo-1562158074-d16650a22f83?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "texto": "Alma cándida de gran calma y immutable actitud.",
+    "url": "/pra2webfinal/Gheek"
+},
+{
+    "id": 3,
+    "titulo": "Bosque de Gyrio",
+    "alt": "Descripción de la imágen",
+    "srcimg": "https://images.unsplash.com/photo-1518562180175-34a163b1a9a6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "texto": "Lugar de reunión de nuestros dos pequeños amigos y protaginista de leyendas mágicas.",
+    "url": "/pra2webfinal/BosquedeGyrio"
+}
+]
